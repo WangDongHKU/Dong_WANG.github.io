@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Dong Wang / Site Title"
+title                    : "Dong Wang / BcD,PhD"
 title_separator          : "-"
 name                     : &name "Dong WANG"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,16 +24,16 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Dong Wang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  location         : "Hong Kong"
+  employer         : "The University of Hong Kong"
+  uri              :  https://sph.hku.hk/en/Biography/Wang-Dong
   email            : "dongw21@hku.hk" 
 
   # Academic websites
-  academia         : # URL
+  academia         :  https://sph.hku.hk/en/Biography/Wang-Dong
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
