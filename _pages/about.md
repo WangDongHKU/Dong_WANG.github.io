@@ -12,7 +12,6 @@ Postdoctoral Fellow with a Ph.D. in **Applied Mathematics** and strong expertise
 
 A data-driven personal website
 ======
-Gender: Male
 Address: 105, 1/F, Patrick Manson Building (North Wing), 7 Sassoon Road, Pokfulam, Hong Kong
 E-mail: dongw21@hku.hk; dong.wang2021@gmail.com
 Present academic position: Post-doctoral Fellow, School of Public Health, The University of Hong Kong
