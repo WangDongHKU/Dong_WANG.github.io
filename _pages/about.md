@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Postdoctoral Fellow with a Ph.D. in Applied Mathematics and strong expertise in mathematical modeling, statistical inference, and complex network analysis. Experienced in integrating epidemiological, mobility, and genomic data to study infectious disease dynamics. Passionate about applying quantitative methods to large-scale viral genomic datasets to understand infectious disease transmission dynamics.
+Postdoctoral Fellow with a Ph.D. in **Applied Mathematics** and strong expertise in **mathematical modeling**, **statistical inference**, and **complex network analysis**. Experienced in integrating epidemiological, mobility, and genomic data to study **infectious disease dynamics**. Passionate about applying quantitative methods to large-scale viral genomic datasets to understand **infectious disease transmission dynamics**.
 
 
 A data-driven personal website
