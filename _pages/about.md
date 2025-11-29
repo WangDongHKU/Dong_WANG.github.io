@@ -20,7 +20,7 @@ I am a  Postdoctoral Fellow at HKU School of Public Health with a PhD in **Mathe
   I’m available for collaboration!
 
 📧 <span style="color:red; font-weight:bold;">Email: dongw21@hku.hk;  </span>  
-<span style="color:green; font-weight:bold;"> Open to Post-doc, Research Fellow, and related roles. </span>  
+<span style="color: purple; font-weight:bold;"> Open to Post-doc, Research Fellow, and related roles. </span>  
 ---
 ## Selected Projects
 ---
