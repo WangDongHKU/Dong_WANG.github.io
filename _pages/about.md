@@ -17,11 +17,18 @@ I am a **Postdoctoral Fellow** at the **School of Public Health, The University 
 ---
 
 ## Open to Opportunities
-**Looking for talent?**  
-If your work involves **Mathematical Epidemic Modelling**, **Complex Networks**, **Bayesian Hierarchical Modelling**, **Genomic Epidemiology**, or **Eco‑epidemiology**, I’m available for collaboration!  
 
-📧 **Email:** dongw21@hku.hk  
-**Dr. Dong Wang | Open to Post-doc, Research Fellow, and related roles.**
+<div style="color:red; font-weight:bold; font-size:1.3em;">
+Important – Looking for Talent?
+</div>
+
+If your work involves <strong>Mathematical Epidemic Modelling</strong>, <strong>Complex Networks</strong>, <strong>Bayesian Hierarchical Modelling</strong>, <strong>Genomic Epidemiology</strong>, or <strong>Eco‑epidemiology</strong>, I’m available for collaboration!
+
+📧 <span style="color:red; font-weight:bold;">Email: mailto:dongw21@hku.hkdongw21@hku.hk</a></span>  
+<strong> Open to Post-doc, Research Fellow, and related roles.</strong>
+
+---
+
 
 **Research Highlights:**
 - **Eco‑epidemiology:** Predictive models for **vector‑borne disease risk**, **weather‑dependent human behavior**, and environmental drivers of transmission.
