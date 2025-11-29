@@ -4,7 +4,7 @@ title: "👋 Dong WANG"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html description: "Postdoctoral Fellow in infectious disease modelling at HKU; Bayesian inference, viral genomics, mobility, and mechanistic frameworks."
+  - /about.html
 ---
 ---
 **Infectious Disease Modelling | Epidemiology | Complex Networks | Bayesian inference**
@@ -28,7 +28,7 @@ I am a  Postdoctoral Fellow at HKU School of Public Health with a PhD in **Mathe
 Developed  higher-order mechanistic network models integrating human mobility, **genetic** and NPI data; and applied likelihood‑based fitting to partially observed epidemic data for risk assessment.
 
 - **Identifying the dynamical interaction among respiratory viruses, including influenza and COVID-19, and prediction of their cocirculation burden in the post-pandemic period using multi-stream data**  
-Role: Co-Investigator | Funding: General Research Fund | Year: 2025–
+   Role: Co-Investigator | Funding: General Research Fund | Year: 2025–
 Built mechanistic models with multi-stream surveillance to predict influenza and COVID-19 activity and estimate their interactions.
 
 ---
