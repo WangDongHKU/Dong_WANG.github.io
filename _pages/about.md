@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 ---
-**Infectious Disease Modelling | Epidemiology | Complex Networks | Bayesian inference**
+** Infectious Disease Modelling | Epidemiology | Complex Networks | Bayesian inference| Phylodynamics **
 ## About
 ---
 I am a  Postdoctoral Fellow at HKU School of Public Health with a PhD in **Mathematics**. I focus on **infectious disease modelling** and **Bayesian inference**, integrating **epidemiological**, **genomic**, **human mobility**, and **environmental data** within mechanistic frameworks. Passionate about leveraging large-scale **viral genomics and network analysis** to uncover transmission dynamics and inform the development of more effective spatial/global disease control strategies.
