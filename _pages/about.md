@@ -15,7 +15,7 @@ I am a  Postdoctoral Fellow at HKU School of Public Health with a PhD in **Mathe
 📢 Open to Opportunities -- Looking for Talent?
 </div>
 ---
-👉If your work involves <strong>Mathematical Epidemic Modelling</strong>, <strong>Complex Networks</strong>, <strong>Spatial Analysis<strong>, <strong>Bayesian Hierarchical Modelling</strong>, <strong>Genomic Epidemiology</strong>, <strong> Human Behaviour </strong>. I’m available for collaboration!
+👉If your work involves <strong>Mathematical Epidemic Modelling, Complex Networks, Spatial Analysis, Bayesian Hierarchical Modelling, Genomic Epidemiology,  Human Behaviours <strong>. I’m available for collaboration!
 
 📧 <span style="color:red; font-weight:bold;">Email: dongw21@hku.hk</span>  
 <strong> Open to Post-doc, Research Fellow, and related roles.</strong>
@@ -33,6 +33,7 @@ Built mechanistic models using multi‑stream surveillance to predict influenza 
 ---
 -  Epidemiology; Mathematical high-order modelling; Statistical inference; complex network analysis; geographic and spatial analytics; Bayesian hierarchical modelling; genomic epidemiology; analysis of collective behaviour. 
 Particularly adept at higher-order infectious disease modelling that synthesises epidemiological, geographic, phylogenetic, and network approaches to elucidate the impact of viral evolution and human mobility on shaping patterns of disease transmission.
+
 - Extensive experience with **R**, including data visualisation (ggplot2), bioinformatics workflows, and, in particular, mathematical modelling and statistical inference via **RStan**. Proficient in Python for data manipulation and analysis (pandas, among others), as well as **MATLAB** for numerical computations and algorithmic development.
 ---
 
