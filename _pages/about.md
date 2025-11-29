@@ -6,9 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
----
-# Dong Wang 
 **Postdoctoral Fellow | Infectious Disease Modeling | Epidemiology | Bayesian & Mechanistic Methods | Complex Networks**
 ---
 
@@ -17,12 +14,19 @@ Postdoctoral Fellow with a PhD in **Applied Mathematics** and strong expertise i
 ---
 ## About
 I am a **Postdoctoral Fellow** at the **School of Public Health, The University of Hong Kong**, specialising in **mathematical and statistical modelling of infectious diseases**. My research integrates **epidemiological, genomic, mobility, and environmental data** with **Bayesian inference** and **mechanistic frameworks** to understand transmission dynamics and inform public health strategies.
+---
 
+## Open to Opportunities
+**Looking for talent?**  
+If your work involves **Mathematical Epidemic Modelling**, **Complex Networks**, **Bayesian Hierarchical Modelling**, **Genomic Epidemiology**, or **Eco‑epidemiology**, I’m available for collaboration!  
+
+📧 **Email:** dongw21@hku.hk  
+**Dr. Dong Wang | Open to Post-doc, Research Fellow, and related roles.**
 
 **Research Highlights:**
 - **Eco‑epidemiology:** Predictive models for **vector‑borne disease risk**, **weather‑dependent human behavior**, and environmental drivers of transmission.
 - **Phylogeographic modeling:** Pathogen dispersal using genomic data (e.g., **GISAID**) and global mobility networks (**OAG**).
-- **Mechanistic epidemic modeling & data fitting:** Bayesian hierarchical and likelihood‑based calibration of compartmental and network models to **partially observed data**.
+- **Mechanistic epidemic modelling & data fitting:** Bayesian hierarchical and likelihood‑based calibration of compartmental and network models to **partially observed data**.
 - **Decision support:** Nowcasting, forecasting, and intervention evaluation for infectious disease control.
 
 ---
@@ -73,8 +77,3 @@ Built Bayesian hierarchical models using multi‑stream surveillance to forecast
 - Cover letter (LSHTM – Polio analytics)
 
 ---
-
-## Contact
-- **Email:** dongw21@hku.hk  
-- **HKU Profile:** School of Public Health  
-- **Location:** Hong Kong SAR
