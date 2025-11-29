@@ -30,7 +30,6 @@ Developed  higher-order mechanistic network models integrating human mobility, *
 Built mechanistic models using multi‑stream surveillance to predict influenza and COVID-19 activity and estimate their interaction.
 ---
 ## Skills
----
 -  Epidemiology; Mathematical high-order modelling; Statistical inference; complex network analysis; geographic and spatial analytics; Bayesian hierarchical modelling; genomic epidemiology; analysis of collective behaviour. 
 Particularly adept at higher-order infectious disease modelling that synthesises epidemiological, geographic, phylogenetic, and network approaches to elucidate the impact of viral evolution and human mobility on shaping patterns of disease transmission.
 
