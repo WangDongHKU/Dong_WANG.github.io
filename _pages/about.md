@@ -6,8 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Infectious Disease Modelling | Epidemiology | Complex Networks | Bayesian inference
-
+**Infectious Disease Modelling | Epidemiology | Complex Networks | Bayesian inference**
 
 ## About
 ---
