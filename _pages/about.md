@@ -16,8 +16,8 @@ I am a  Postdoctoral Fellow at HKU School of Public Health with a PhD in **Mathe
 📢 Open to Opportunities -- Looking for Talent?
 </div>
 ---
-- 👉 span style="color: purple; font-weight:bold;">Collaboration interests:</span>  mathematical epidemic modelling, complex networks, spatial analysis, Bayesian hierarchical modelling, genomic epidemiology, and human behaviour.   
-- 👉 span style="color: purple; font-weight:bold;">Roles:</span>  Postdoctoral Fellow, Research Fellow, and related positions.    
+- 👉 <span style="color: purple; font-weight:bold;">Collaboration interests:</span>  mathematical epidemic modelling, complex networks, spatial analysis, Bayesian hierarchical modelling, genomic epidemiology, and human behaviour.   
+- 👉 <span style="color: purple; font-weight:bold;">Roles:</span>  Postdoctoral Fellow, Research Fellow, and related positions.    
 - 📧 <span style="color: purple; font-weight:bold;"> Contact: dongw21@hku.hk  </span>  
   
 ---
