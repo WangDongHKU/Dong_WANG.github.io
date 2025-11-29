@@ -15,9 +15,10 @@ I am a **Postdoctoral Fellow** at the **School of Public Health, The University 
 ---
 <div style="color:red; font-weight:bold; font-size:1.3em;">
 ## Open to Opportunities
-Important – Looking for Talent?
+  </div>
+ Looking for Talent?
 </div>
-If your work involves <strong>Mathematical Epidemic Modelling</strong>, <strong>Complex Networks</strong>, <strong>Bayesian Hierarchical Modelling</strong>, <strong>Genomic Epidemiology</strong>, or <strong>Eco‑epidemiology</strong>, I’m available for collaboration!
+If your work involves <strong>Mathematical Epidemic Modelling</strong>, <strong>Complex Networks</strong>, <strong>Spatial Analysis<strong>, <strong>Bayesian Hierarchical Modelling</strong>, <strong>Genomic Epidemiology</strong>, <strong> Human Behaviour </strong>, I’m available for collaboration!
 
 📧 <span style="color:red; font-weight:bold;">Email: mailto:dongw21@hku.hk</span>  
 <strong> Open to Post-doc, Research Fellow, and related roles.</strong>
