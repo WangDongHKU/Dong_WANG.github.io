@@ -6,6 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+
 Postdoctoral Fellow | Infectious Disease Modelling | Epidemiology | Complex Networks | Bayesian inference 
 ## About
 ---
@@ -21,6 +23,7 @@ I am a  Postdoctoral Fellow at HKU School of Public Health with a PhD in **Mathe
 <strong> Open to Post-doc, Research Fellow, and related roles.</strong>
 ---
 ## Selected Projects
+---
 - **The impact of higher-order interactions in human mobility networks on the transmission of COVID-19 in Hong Kong and mainland China**  
 **P-I** | Health and Medical Research Fund (HK$551,440)  
 Developed  higher-order mechanistic network models integrating human mobility, **genetic** and NPI data; and applied likelihood‑based fitting to partially observed epidemic data for risk assessment.
@@ -34,6 +37,6 @@ Built mechanistic models using multi‑stream surveillance to predict influenza 
 -  Epidemiology; Mathematical high-order modelling; Statistical inference; complex network analysis; geographic and spatial analytics; Bayesian hierarchical modelling; genomic epidemiology; analysis of collective behaviour. 
 Particularly adept at higher-order infectious disease modelling that synthesises epidemiological, geographic, phylogenetic, and network approaches to elucidate the impact of viral evolution and human mobility on shaping patterns of disease transmission.
 
-- Extensive experience with R, including data visualisation (ggplot2), bioinformatics workflows, and, in particular, mathematical modelling and statistical inference via RStan. Proficient in Python for data manipulation and analysis (pandas, among others), as well as MATLAB for numerical computations and algorithmic development.
+- Extensive experience with **R**, including data visualisation (ggplot2), bioinformatics workflows, and, in particular, mathematical modelling and statistical inference via **RStan**. Proficient in Python for data manipulation and analysis (pandas, among others), as well as MATLAB for numerical computations and algorithmic development.
 
 
