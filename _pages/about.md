@@ -34,6 +34,6 @@ Built mechanistic models using multi‑stream surveillance to predict influenza 
 -  Epidemiology; Mathematical high-order modelling; Statistical inference; complex network analysis; geographic and spatial analytics; Bayesian hierarchical modelling; genomic epidemiology; analysis of collective behaviour. 
 Particularly adept at higher-order infectious disease modelling that synthesises epidemiological, geographic, phylogenetic, and network approaches to elucidate the impact of viral evolution and human mobility on shaping patterns of disease transmission.
 
-- Extensive experience with **R**, including data visualisation (ggplot2), bioinformatics workflows, and, in particular, mathematical modelling and statistical inference via **RStan**. Proficient in Python for data manipulation and analysis (pandas, among others), as well as **MATLAB** for numerical computations and algorithmic development.
+- Extensive experience with R, including data visualisation (ggplot2), bioinformatics workflows, and, in particular, mathematical modelling and statistical inference via RStan. Proficient in Python for data manipulation and analysis (pandas, among others), as well as MATLAB for numerical computations and algorithmic development.
 ---
 
