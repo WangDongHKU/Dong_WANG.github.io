@@ -5,7 +5,9 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+---
 
+---
 # Dong Wang 
 **Postdoctoral Fellow | Infectious Disease Modeling | Epidemiology | Bayesian & Mechanistic Methods | Complex Networks**
 ---
