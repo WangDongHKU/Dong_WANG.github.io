@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**Postdoctoral Fellow | Infectious Disease Modeling | Epidemiology | Bayesian & Mechanistic Methods | Complex Networks**
+Postdoctoral Fellow | Infectious Disease Modeling | Epidemiology | Bayesian & Mechanistic Methods | Complex Networks
 ---
 Postdoctoral Fellow with a PhD in **Applied Mathematics** and strong expertise in **mathematical modelling**, **statistical inference**, and **complex network analysis**. Experienced in integrating epidemiological, mobility, and genomic data to study **infectious disease dynamics**. Passionate about applying quantitative methods to large-scale viral genomic datasets to understand **infectious disease transmission dynamics**.
 ---
@@ -15,7 +15,7 @@ I am a **Postdoctoral Fellow** at the **School of Public Health, The University 
 ---
 <div style="color:red; font-weight:bold; font-size:1.3em;">
 ## Open to Opportunities
-  </div>
+ </div>
  Looking for Talent?
 </div>
 If your work involves <strong>Mathematical Epidemic Modelling</strong>, <strong>Complex Networks</strong>, <strong>Spatial Analysis<strong>, <strong>Bayesian Hierarchical Modelling</strong>, <strong>Genomic Epidemiology</strong>, <strong> Human Behaviour </strong>, I’m available for collaboration!
