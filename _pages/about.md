@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "👋 Hello there, I'm Dong WANG"
-subtitle: "Infectious Disease Modelling | Epidemiology | Complex Networks | Bayesian inference "
+title: "👋 Dong WANG"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+---
+Infectious Disease Modelling | Epidemiology | Complex Networks | Bayesian inference
 ---
 ## About
 ---
