@@ -16,14 +16,14 @@ I am a  Postdoctoral Fellow at HKU School of Public Health with a PhD in **Mathe
 📢 Open to Opportunities -- Looking for Talent?
 </div>
 ---
-- 👉 Collaboration interests: mathematical epidemic modelling, complex networks, spatial analysis, Bayesian hierarchical modelling, genomic epidemiology, and human behaviour.
-- 👉 Roles: Postdoctoral Fellow, Research Fellow, and related positions.
+- 👉 Collaboration interests: mathematical epidemic modelling, complex networks, spatial analysis, Bayesian hierarchical modelling, genomic epidemiology, and human behaviour.   
+- 👉 Roles: Postdoctoral Fellow, Research Fellow, and related positions.    
 - 📧 <span style="color: purple; font-weight:bold;"> Contact: dongw21@hku.hk  </span>  
   
 ---
 ## Selected Projects
 ---
-- The impact of higher-order interactions in human mobility networks on COVID-19 transmission in Hong Kong and mainland China    
+- The impact of higher-order interactions in human mobility networks on COVID-19 transmission in Hong Kong and mainland China     
    Role: Principal Investigator | Funding: Health and Medical Research Fund | Year: 2023–    
 Developed  higher-order mechanistic network models integrating human mobility, **genetic** and NPI data; and applied likelihood‑based fitting to partially observed epidemic data for risk assessment.    
 
