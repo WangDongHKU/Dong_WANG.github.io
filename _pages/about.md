@@ -8,16 +8,14 @@ redirect_from:
 ---
 Postdoctoral Fellow | Infectious Disease Modeling | Epidemiology | Bayesian & Mechanistic Methods | Complex Networks
 ---
-Postdoctoral Fellow with a PhD in **Applied Mathematics** and strong expertise in **mathematical modelling**, **statistical inference**, and **complex network analysis**. Experienced in integrating epidemiological, mobility, and genomic data to study **infectious disease dynamics**. Passionate about applying quantitative methods to large-scale viral genomic datasets to understand **infectious disease transmission dynamics**.
----
 ## About
-I am a **Postdoctoral Fellow** at the **School of Public Health, The University of Hong Kong**, specialising in **mathematical and statistical modelling of infectious diseases**. My research integrates **epidemiological, genomic, mobility, and environmental data** with **Bayesian inference** and **mechanistic frameworks** to understand transmission dynamics and inform public health strategies.
+
+I am a  Postdoctoral Fellow at HKU School of Public Health with a PhD in **Mathematics**. I focus on **infectious disease modelling** and **Bayesian inference**, integrating **epidemiological**, **genomic**, **human mobility**, and **environmental data** within mechanistic frameworks. Passionate about leveraging large-scale **viral genomics and network analysis** to uncover transmission dynamics and guide public health strategies.
 ---
 <div style="color:red; font-weight:bold; font-size:1.3em;">
-## Open to Opportunities
- </div>
- Looking for Talent?
+## Open to Opportunities -- Looking for Talent?
 </div>
+
 If your work involves <strong>Mathematical Epidemic Modelling</strong>, <strong>Complex Networks</strong>, <strong>Spatial Analysis<strong>, <strong>Bayesian Hierarchical Modelling</strong>, <strong>Genomic Epidemiology</strong>, <strong> Human Behaviour </strong>, I’m available for collaboration!
 
 📧 <span style="color:red; font-weight:bold;">Email: dongw21@hku.hk</span>  
