@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Postdoctoral Fellow | Infectious Disease Modeling | Epidemiology | Bayesian & Mechanistic Methods | Complex Networks
+Postdoctoral Fellow | Infectious Disease Modelling | Epidemiology | Complex Networks | Bayesian inference 
 ## About
 ---
 I am a  Postdoctoral Fellow at HKU School of Public Health with a PhD in **Mathematics**. I focus on **infectious disease modelling** and **Bayesian inference**, integrating **epidemiological**, **genomic**, **human mobility**, and **environmental data** within mechanistic frameworks. Passionate about leveraging large-scale **viral genomics and network analysis** to uncover transmission dynamics and inform the development of more effective spatial/global disease control strategies.
@@ -30,9 +30,10 @@ Developed  higher-order mechanistic network models integrating human mobility, *
 Built mechanistic models using multi‑stream surveillance to predict influenza and COVID-19 activity and estimate their interaction.
 ---
 ## Skills
+---
 -  Epidemiology; Mathematical high-order modelling; Statistical inference; complex network analysis; geographic and spatial analytics; Bayesian hierarchical modelling; genomic epidemiology; analysis of collective behaviour. 
 Particularly adept at higher-order infectious disease modelling that synthesises epidemiological, geographic, phylogenetic, and network approaches to elucidate the impact of viral evolution and human mobility on shaping patterns of disease transmission.
 
 - Extensive experience with R, including data visualisation (ggplot2), bioinformatics workflows, and, in particular, mathematical modelling and statistical inference via RStan. Proficient in Python for data manipulation and analysis (pandas, among others), as well as MATLAB for numerical computations and algorithmic development.
----
+
 
