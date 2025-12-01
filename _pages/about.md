@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 ---
-**Infectious Disease Modelling | Epidemiology | Complex Networks | Bayesian inference| Phylodynamics**
+**Infectious Disease Modelling | Epidemiology | Complex Networks | Bayesian inference | Phylodynamics**
 ## About
 ---
 I am a  Postdoctoral Fellow at HKU School of Public Health with a PhD in **Mathematics**. I focus on **infectious disease modelling** and **Bayesian inference**, integrating **epidemiological**, **genomic**, **human mobility**, and **environmental data** within mechanistic frameworks. Passionate about leveraging large-scale **viral genomics and network analysis** to uncover transmission dynamics and inform the development of more effective spatial/global disease control strategies.
 ---
 <div style="color:red; font-weight:bold; font-size:1.3em;">
-📢 Open to Opportunities -- Looking for Talent?
+📢 Available for research Positions – Contact me!
 </div>
 ---
 - 👉 <span style="color: purple; font-weight:bold;">Collaboration interests:</span>  Mathematical epidemic modelling, Complex networks, Spatial-temporal analysis, Bayesian hierarchical modelling, Genomic epidemiology, Human behaviour, Machine learning and related areas.   
@@ -24,7 +24,7 @@ I am a  Postdoctoral Fellow at HKU School of Public Health with a PhD in **Mathe
 ## Selected Projects
 ---
 - **The impact of higher-order interactions in human mobility networks on COVID-19 transmission in Hong Kong and mainland China**     
-   **Role: Principal Investigator** | Funding: Health and Medical Research Fund    
+  **Role: Principal Investigator** | Funding: Health and Medical Research Fund    
 Developed  **higher-order mechanistic network models** integrating **human mobility**, **genetic**, **NPI data**, etc.; and applied **likelihood‑based fitting** to partially observed epidemic data for risk assessment.    
 
 - **Identifying the dynamical interaction among respiratory viruses, including influenza and COVID-19, and prediction of their cocirculation burden in the post-pandemic period using multi-stream data**     
