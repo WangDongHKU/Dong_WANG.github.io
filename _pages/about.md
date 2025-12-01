@@ -36,6 +36,6 @@ Built mechanistic models with multi-stream surveillance to predict influenza and
 ---
 -  **Core**: Epidemiology, Higher-order interaction modelling, Statistical inference, Complex network analysis, Spatial analytics, Bayesian hierarchical modelling, Genomic epidemiology, Collective behaviour analysis.
 -  **Focus**: Synthesising epidemiological, Geographic, Phylogenetic, and Network approaches to quantify how viral evolution and human mobility shape transmission patterns.
--  **Tooling**R: R (ggplot2, **RStan**; modelling and inference), **Python** (pandas; data manipulation and analysis), **MATLAB** (numerical computation and algorithm development). 
+-  **Tooling**: **R** (ggplot2, **RStan**; modelling and inference), **Python** (pandas; data manipulation and analysis), **MATLAB** (numerical computation and algorithm development). 
 
 
