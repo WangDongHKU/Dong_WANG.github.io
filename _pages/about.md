@@ -23,12 +23,12 @@ I am a  Postdoctoral Fellow at HKU School of Public Health with a PhD in **Mathe
 ---
 ## Selected Projects
 ---
-- The impact of higher-order interactions in human mobility networks on COVID-19 transmission in Hong Kong and mainland China     
-   Role: Principal Investigator | Funding: Health and Medical Research Fund    
+- **The impact of higher-order interactions in human mobility networks on COVID-19 transmission in Hong Kong and mainland China     
+   **Role: Principal Investigator | Funding: Health and Medical Research Fund    
 Developed  higher-order mechanistic network models integrating human mobility, **genetic** and NPI data; and applied likelihood‑based fitting to partially observed epidemic data for risk assessment.    
 
-- Identifying the dynamical interaction among respiratory viruses, including influenza and COVID-19, and prediction of their cocirculation burden in the post-pandemic period using multi-stream data     
-   Role: Co-Investigator | Funding: General Research Fund    
+- **Identifying the dynamical interaction among respiratory viruses, including influenza and COVID-19, and prediction of their cocirculation burden in the post-pandemic period using multi-stream data     
+   **Role: Co-Investigator | Funding: General Research Fund    
 Built mechanistic models with multi-stream surveillance to predict influenza and COVID-19 activity and estimate their interactions.  
 
 ---
