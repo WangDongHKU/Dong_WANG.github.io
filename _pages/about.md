@@ -23,19 +23,19 @@ I am a  Postdoctoral Fellow at HKU School of Public Health with a PhD in **Mathe
 ---
 ## Selected Projects
 ---
-- **The impact of higher-order interactions in human mobility networks on COVID-19 transmission in Hong Kong and mainland China     
-   **Role: Principal Investigator | Funding: Health and Medical Research Fund    
-Developed  higher-order mechanistic network models integrating human mobility, **genetic** and NPI data; and applied likelihood‑based fitting to partially observed epidemic data for risk assessment.    
+- **The impact of higher-order interactions in human mobility networks on COVID-19 transmission in Hong Kong and mainland China**     
+   **Role: Principal Investigator** | Funding: Health and Medical Research Fund    
+Developed  **higher-order mechanistic network models** integrating **human mobility**, **genetic**, **NPI data**, etc.; and applied **likelihood‑based fitting** to partially observed epidemic data for risk assessment.    
 
-- **Identifying the dynamical interaction among respiratory viruses, including influenza and COVID-19, and prediction of their cocirculation burden in the post-pandemic period using multi-stream data     
-   **Role: Co-Investigator | Funding: General Research Fund    
+- **Identifying the dynamical interaction among respiratory viruses, including influenza and COVID-19, and prediction of their cocirculation burden in the post-pandemic period using multi-stream data**     
+   **Role: Co-Investigator** | Funding: General Research Fund    
 Built mechanistic models with multi-stream surveillance to predict influenza and COVID-19 activity and estimate their interactions.  
 
 ---
 ## Skills
 ---
--  **Core**: epidemiology, higher-order interaction modelling, statistical inference, complex network analysis, spatial analytics, Bayesian hierarchical modelling, genomic epidemiology, collective behaviour analysis.
--  **Focus**: synthesising epidemiological, geographic, phylogenetic, and network approaches to quantify how viral evolution and human mobility shape transmission patterns.
+-  **Core**: Epidemiology, Higher-order interaction modelling, Statistical inference, Complex network analysis, Spatial analytics, Bayesian hierarchical modelling, Genomic epidemiology, Collective behaviour analysis.
+-  **Focus**: Synthesising epidemiological, Geographic, Phylogenetic, and Network approaches to quantify how viral evolution and human mobility shape transmission patterns.
 -  **Tooling**R: R (ggplot2, **RStan**; modelling and inference), Python (pandas; data manipulation and analysis), MATLAB (numerical computation and algorithm development). 
 
 
