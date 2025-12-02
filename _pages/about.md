@@ -13,7 +13,7 @@ redirect_from:
 I am a  Postdoctoral Fellow at HKU School of Public Health with a PhD in **Mathematics**. I focus on **infectious disease modelling** and **Bayesian inference**, integrating **epidemiological**, **genomic**, **human mobility**, and **environmental data** within mechanistic frameworks. Passionate about leveraging large-scale **viral genomics and network analysis** to uncover transmission dynamics and inform the development of more effective spatial/global disease control strategies.
 ---
 <div style="color:red; font-weight:bold; font-size:1.3em;">
-📢 Available for Research Positions – Hire me!
+📢 Available for Research Positions? – Hire me.
 </div>
 ---
 - 👉 <span style="color: purple; font-weight:bold;">Collaboration interests:</span>  **Mathematical epidemic modelling, Complex networks, Spatiotemporal analysis, Bayesian hierarchical modelling, Genomic epidemiology, Human behaviour, Machine learning and related areas**.   
